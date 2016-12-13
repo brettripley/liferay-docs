@@ -24,6 +24,8 @@ Manage Liferay's roles in the Control Panel (*Control Panel* &rarr; *Users*
 them permissions, and assigning users to them. Roles can be scoped by portal,
 site, or organization.
 
+- To assign roles to Users, Sites, Organizations, and User Groups, click on the role, then click on the +. You can choose which users and groups you would like to be assigned to the role. If you are assigning a group, then all users assigned to that group will inherit the role as well. 
+
 ![Figure 1: The Roles application lets you add and manage roles for the global (*Regular*), *Site*, or *Organization* scope.](../../images/roles-app.png)
 
 To create a role, click the scope you want a role for and then click the *Add*
